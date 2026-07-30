@@ -3,7 +3,7 @@
 - This is a beginner-friendly guide to learn, understand, and implement Langchain in your projects. 
 - By the time when I write this, I don't have any prior knowledge of Langchain. 
 - So, if you are also a beginner who don't have any idea about Langchain, this guide will definitely help you to understand and implement Langchain in your projects.
-- I'll assure that this guide will be presented in a simple way, strictly no-fluff. 
+- I assure that this guide will be presented in a simple way, strictly no-fluff. 
 
 ### Table of Contents
 
