@@ -8,6 +8,7 @@
 ### Table of Contents
 
 1. [Introduction](./guide/01.%20introduction.md)
+2. [Agents](./guide/02.%20agents.md)
 
 ### Contribution
 
