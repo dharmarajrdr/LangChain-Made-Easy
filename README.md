@@ -10,6 +10,7 @@
 1. [Introduction](./guide/01.%20introduction.md)
 2. [Agents](./guide/02.%20agents.md)
 3. [Tools](./guide/03.%20tools.md)
+4. [Messages](./guide/04.%20messages.md)
 
 ### Contribution
 
