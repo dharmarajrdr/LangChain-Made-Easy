@@ -11,6 +11,7 @@
 2. [Agents](./guide/02.%20agents.md)
 3. [Tools](./guide/03.%20tools.md)
 4. [Messages](./guide/04.%20messages.md)
+5. [Structured Output](./guide/05.%20structured-output.md)
 
 ### Contribution
 
